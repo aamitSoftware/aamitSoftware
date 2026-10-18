@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aamitSoftware&label=profile%20views&color=0088FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aamitSoftware&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />  
   <img src="https://img.shields.io/badge/based%20in-Israel-0088FF?style=flat-square&labelColor=202024" alt="Based in Israel" />
   <img src="https://img.shields.io/github/followers/aamitSoftware?label=followers&style=flat-square&color=0088FF&labelColor=202024" alt="Followers" />
 </p>
