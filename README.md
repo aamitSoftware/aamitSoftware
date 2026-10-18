@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amit%20Asher&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Amit Asher" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202024,50:064DA8,100:0088FF&height=200&section=header&text=Amit%20Asher&fontSize=60&fontColor=FFF7E8&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Amit Asher" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aamitSoftware">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=640&lines=Designing+DDD+microservices+in+.NET;Event-driven+with+MassTransit+%2B+RabbitMQ;Guarding+AI+agents+and+their+MCP+tools;Building+LLM+agents+that+write+WAF+rules" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0088FF&center=true&vCenter=true&width=640&lines=Designing+DDD+microservices+in+.NET;Event-driven+with+MassTransit+%2B+RabbitMQ;Guarding+AI+agents+and+their+MCP+tools;Building+LLM+agents+that+write+WAF+rules" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aamitSoftware&label=profile%20views&color=2c5364&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/based%20in-Israel-2c5364?style=flat-square" alt="Based in Israel" />
-  <img src="https://img.shields.io/github/followers/aamitSoftware?label=followers&style=flat-square&color=2c5364" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aamitSoftware&label=profile%20views&color=0088FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/based%20in-Israel-0088FF?style=flat-square&labelColor=202024" alt="Based in Israel" />
+  <img src="https://img.shields.io/github/followers/aamitSoftware?label=followers&style=flat-square&color=0088FF&labelColor=202024" alt="Followers" />
 </p>
 
 ---
