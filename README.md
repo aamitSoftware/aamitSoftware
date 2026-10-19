@@ -1,18 +1,20 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202024,50:064DA8,100:0088FF&height=200&section=header&text=Amit%20Asher&fontSize=60&fontColor=FFF7E8&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Amit Asher" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202024,50:064DA8,100:0088FF&height=200&section=header&text=Amit%20Asher&fontSize=60&fontColor=FFF7E8&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20.NET%20and%20React%20%E2%80%A2%20Real-Time%20Cloud%20%E2%80%A2%20AI%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Amit Asher — Software Engineer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aamitSoftware">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0088FF&center=true&vCenter=true&width=640&lines=Designing+DDD+microservices+in+.NET;Event-driven+with+MassTransit+%2B+RabbitMQ;Guarding+AI+agents+and+their+MCP+tools;Building+LLM+agents+that+write+WAF+rules" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0088FF&center=true&vCenter=true&width=640&lines=Shipping+.NET+%2B+React+features+to+production;Streaming+real-time+telemetry+to+dashboards;Running+Bubble.up+for+130%2B+students;Building+guardrails+for+AI+agents" alt="Software engineering highlights" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aamitSoftware&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />  
+  <a href="https://www.linkedin.com/in/amit-asher-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0088FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=202024" alt="LinkedIn" />
+  </a>
   <img src="https://img.shields.io/badge/based%20in-Israel-0088FF?style=flat-square&labelColor=202024" alt="Based in Israel" />
-  <img src="https://img.shields.io/github/followers/aamitSoftware?label=followers&style=flat-square&color=0088FF&labelColor=202024" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aamitSoftware&label=Profile%20views&color=0088FF&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -22,57 +24,56 @@
 ```csharp
 public sealed record Engineer
 {
-    public string Name      => "Amit Asher";
-    public string Role      => "Backend Software Engineer";
-    public string[] Focus   => ["Distributed systems", "API & cloud security", "Agentic AI"];
-    public string[] Stack   => ["C# / .NET", "ASP.NET Core", "EF Core", "Python", "FastAPI"];
-    public string[] Patterns => ["DDD", "Clean Architecture", "Vertical Slices", "CQRS", "Outbox"];
-    public string Currently => "Building governance & security tooling for AI agents";
+    public string Name       => "Amit Asher";
+    public string Role       => "Software Engineer | Backend & Full-Stack";
+    public string Education  => "B.Sc. Software Engineering, BGU";
+    public string[] Focus    => ["Backend APIs", "Real-time systems", "Cloud", "AI-agent security"];
+    public string[] Stack    => ["C# / .NET", "React / TypeScript", "Java / Spring Boot", "Python"];
+    public string[] Patterns => ["DDD", "Clean Architecture", "CQRS", "Event-driven microservices"];
+    public string Currently  => "Shipping production features and running Bubble.up";
 }
 ```
 
 ---
 
-### 🛠️ Featured projects
+### 🛠️ Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/aamitSoftware/agentgate">AgentGate</a></h4>
-      <p>Governance control plane for AI agents' MCP tool access: discover → risk-scan → four-eyes approval → pinned manifests → enforced grants at a YARP gateway → drift detection and automatic agent suspension on tool "rug-pulls".</p>
+      <h4>💼 Landa Digital Printing — Software Engineer</h4>
+      <p>Build and ship customer-facing features for a cloud platform that monitors digital presses worldwide: ASP.NET Core APIs, real-time telemetry streamed to the browser, analytics queries and React / TypeScript dashboards.</p>
       <p>
-        <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/YARP-0f2027?style=flat-square" />
-        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/status-in%20progress-f9a825?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# and .NET" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" alt="SignalR" />
+        <img src="https://img.shields.io/badge/KQL-0F6CBD?style=flat-square" alt="KQL" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔥 <a href="https://github.com/aamitSoftware/rulesmith">RuleSmith</a></h4>
-      <p>AI WAF analyst. Scores ModSecurity traffic, groups it into incidents, and lets LangGraph agents triage with RAG over CRS / CAPEC / CWE, draft a SecRule, red-team it, and prove it in a sandbox WAF before a human approves.</p>
+      <h4>🚀 <a href="https://bubbleup.online/">Bubble.up</a> — live product</h4>
+      <p>Built and operate a study-matching platform used by 130+ students across 40+ groups. Spring Boot APIs, React / TypeScript UI, Google OAuth with role-based access, and real-time collaboration over WebSocket. Runs on AWS, provisioned with Terraform, with TLS and automated database backups.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-        <img src="https://img.shields.io/badge/status-in%20progress-f9a825?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>📰 <a href="https://github.com/aamitSoftware/ArticlesSystem">ArticlesSystem</a></h4>
-      <p>Article lifecycle platform (draft → submission → review → production → publish) built with DDD, Vertical Slices and CQRS, evolving from a modular monolith into six microservices with gRPC, MassTransit integration events, a YARP gateway and a Hasura read model.</p>
+      <h4>🔬 <a href="https://github.com/aamitSoftware/Adaptive-Spectral-Filtering--LOG-Final-Project">Adaptive Spectral Filtering on Graphs</a> — research project, BGU</h4>
+      <p>Tested whether making a spectral GNN's Bernstein filter coefficients adapt to each input graph beats fixed coefficients. Controlled comparison on ZINC, ogbg-molbace and ogbg-molesol, with reproducible W&amp;B sweeps and SLURM runs.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat-square" alt="PyTorch Geometric" />
+        <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights and Biases" />
       </p>
     </td>
   </tr>
@@ -83,22 +84,9 @@ public sealed record Engineer
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,js,react&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,graphql&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,terraform,githubactions,git&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aamitSoftware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamitSoftware&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aamitSoftware&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,java,py,js&theme=dark" alt="Languages: C#, TypeScript, Java, Python, JavaScript" /><br/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,spring,postgres,mongodb,redis,rabbitmq&theme=dark" alt="Frameworks and data: .NET, React, Spring, PostgreSQL, MongoDB, Redis, RabbitMQ" /><br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,terraform,githubactions,git&theme=dark" alt="Cloud and tooling: Azure, AWS, Docker, Terraform, GitHub Actions, Git" />
 </p>
 
 ---
@@ -112,5 +100,5 @@ public sealed record Engineer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0088FF,50:064DA8,100:202024&height=110&section=footer" alt="" />
 </p>
