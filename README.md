@@ -30,28 +30,17 @@ public sealed record Engineer
     public string[] Focus    => ["Backend APIs", "Real-time systems", "Cloud", "AI-agent security"];
     public string[] Stack    => ["C# / .NET", "React / TypeScript", "Java / Spring Boot", "Python"];
     public string[] Patterns => ["DDD", "Clean Architecture", "CQRS", "Event-driven microservices"];
-    public string Currently  => "Shipping production features and running Bubble.up";
+    public string Currently  => "Shipping .NET + React features at Landa Digital Printing";
+    public string SideQuest  => "Running Bubble.up, building AI-agent security tools";
 }
 ```
 
 ---
 
-### 🛠️ Featured work
+### 🛠️ Featured projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>💼 Landa Digital Printing — Software Engineer</h4>
-      <p>Build and ship customer-facing features for a cloud platform that monitors digital presses worldwide: ASP.NET Core APIs, real-time telemetry streamed to the browser, analytics queries and React / TypeScript dashboards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# and .NET" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-        <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" alt="SignalR" />
-        <img src="https://img.shields.io/badge/KQL-0F6CBD?style=flat-square" alt="KQL" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h4>🚀 <a href="https://bubbleup.online/">Bubble.up</a> — live product</h4>
       <p>Built and operate a study-matching platform used by 130+ students across 40+ groups. Spring Boot APIs, React / TypeScript UI, Google OAuth with role-based access, and real-time collaboration over WebSocket. Runs on AWS, provisioned with Terraform, with TLS and automated database backups.</p>
@@ -64,9 +53,7 @@ public sealed record Engineer
         <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4>🔬 <a href="https://github.com/aamitSoftware/Adaptive-Spectral-Filtering--LOG-Final-Project">Adaptive Spectral Filtering on Graphs</a> — research project, BGU</h4>
       <p>Tested whether making a spectral GNN's Bernstein filter coefficients adapt to each input graph beats fixed coefficients. Controlled comparison on ZINC, ogbg-molbace and ogbg-molesol, with reproducible W&amp;B sweeps and SLURM runs.</p>
       <p>
